@@ -24,13 +24,14 @@
     "read": "~1.0.4"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "devDependencies": {
     "grunt-testacular": "",
     "grunt": "~0.4.0"
   },
   "keywords": [
-    "gruntplugin", "phonegap"
+    "gruntplugin",
+    "phonegap"
   ]
 }
